@@ -5,7 +5,6 @@ MentorConnect is an innovative platform designed to bridge the gap between mento
 
 ## Table of Contents
 
-* [Screenshots](#screenshots)
 * [Acknowledgements](#acknowledgements)
 * [Technologies](#technologies)
 * [Usage](#usage)
