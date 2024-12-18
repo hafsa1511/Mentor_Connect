@@ -20,17 +20,6 @@ MentorConnect is an innovative platform designed to bridge the gap between mento
 * [Awards](#awards)
 * [Contributing](#contributing)
 
-## Screenshots
-
-| ![Login Page](screenshots/login.png) | ![Home Page](screenshots/home.png) |
-|:--:|:--:|
-| _Login Page_ | _Home Page_ |
-| ![Mentors Page](screenshots/therapists.png) | ![Checkout Page](screenshots/checkout.png) |
-| _Mentors Page_ | _Checkout Page_ |
-| ![Profile Page](screenshots/profile.png) | ![Live Chat Popup](screenshots/chat-session.png) |
-| _Profile Page_ | _Live Chat Popup_ |
-
-
 ## Technologies
 
 * HTML5
