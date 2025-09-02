@@ -29,7 +29,10 @@ MentorConnect is an innovative platform designed to bridge the gap between mento
 * [Git](https://git-scm.com/downloads/)
 * [Node.js](https://nodejs.org/en/download/)
 
+Run The App
+Running the application locally or in production is straightforward since both the frontend and backend are integrated into a single Node.js application running on port 8000.
 
+Execute npm start to run locally in development mode or production mode.
 
 
 ## Features
