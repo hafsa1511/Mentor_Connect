@@ -29,10 +29,7 @@ MentorConnect is an innovative platform designed to bridge the gap between mento
 * [Git](https://git-scm.com/downloads/)
 * [Node.js](https://nodejs.org/en/download/)
 
-</details>
 
-<details>
-  <summary>Installation</summary>
 
 
 ## Features
