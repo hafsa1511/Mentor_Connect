@@ -2,24 +2,6 @@
 
 MentorConnect is an innovative platform designed to bridge the gap between mentors and mentees, providing a streamlined, user-friendly experience to facilitate professional growth, skill development, and personal mentoring. The app enables users to easily connect with industry experts, gain valuable insights, and receive guidance tailored to their specific career goals. With features like profile matching, session scheduling, and live mentoring sessions, MentorConnect empowers users to achieve their full potential by making mentorship accessible, effective, and personalized.
 
-
-## Table of Contents
-
-* [Acknowledgements](#acknowledgements)
-* [Technologies](#technologies)
-* [Usage](#usage)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-  * [Environment Variables Setup](#environment-variables-setup)
-  * [Run The App](#run-the-app)
-* [Features](#features)
-  * [User Account Management](#user-account-management)
-  * [Admin Dashboard](#admin-dashboard)
-  * [Shopping Cart System](#therapist-shopping-cart-system)
-  * [Live Chat Session](#live-chat-session)
-* [Awards](#awards)
-* [Contributing](#contributing)
-
 ## Technologies
 
 * HTML5
